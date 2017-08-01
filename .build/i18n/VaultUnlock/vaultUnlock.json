@@ -1,0 +1,18 @@
+[
+  {
+    "id": "vaults.confirmOpen.title",
+    "defaultMessage": "Open Vault"
+  },
+  {
+    "id": "vaults.confirmOpen.info",
+    "defaultMessage": "You are about to open a vault. After confirming your password, all accounts associated with this vault will be visible. Closing the vault will remove the accounts from view until the vault is opened again."
+  },
+  {
+    "id": "vaults.confirmOpen.password.hint",
+    "defaultMessage": "the password specified when creating the vault"
+  },
+  {
+    "id": "vaults.confirmOpen.password.label",
+    "defaultMessage": "vault password"
+  }
+]

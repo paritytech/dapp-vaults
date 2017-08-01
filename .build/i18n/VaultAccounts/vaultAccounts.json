@@ -1,0 +1,14 @@
+[
+  {
+    "id": "vaults.accounts.button.cancel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "vaults.accounts.button.execute",
+    "defaultMessage": "Set"
+  },
+  {
+    "id": "vaults.accounts.title",
+    "defaultMessage": "Manage Vault Accounts"
+  }
+]

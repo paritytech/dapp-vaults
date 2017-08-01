@@ -1,0 +1,30 @@
+[
+  {
+    "id": "vaults.button.add",
+    "defaultMessage": "create vault"
+  },
+  {
+    "id": "vaults.title",
+    "defaultMessage": "Vault Management"
+  },
+  {
+    "id": "vaults.empty",
+    "defaultMessage": "There are currently no vaults to display."
+  },
+  {
+    "id": "vaults.button.accounts",
+    "defaultMessage": "accounts"
+  },
+  {
+    "id": "vaults.button.edit",
+    "defaultMessage": "edit"
+  },
+  {
+    "id": "vaults.button.close",
+    "defaultMessage": "close"
+  },
+  {
+    "id": "vaults.button.open",
+    "defaultMessage": "open"
+  }
+]
