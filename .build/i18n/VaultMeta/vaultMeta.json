@@ -1,0 +1,58 @@
+[
+  {
+    "id": "vaults.editMeta.button.close",
+    "defaultMessage": "close"
+  },
+  {
+    "id": "vaults.editMeta.button.save",
+    "defaultMessage": "save"
+  },
+  {
+    "id": "vaults.editMeta.title",
+    "defaultMessage": "Edit Vault Metadata"
+  },
+  {
+    "id": "vaults.editMeta.description.hint",
+    "defaultMessage": "the description for this vault"
+  },
+  {
+    "id": "vaults.editMeta.description.label",
+    "defaultMessage": "vault description"
+  },
+  {
+    "id": "vaults.editMeta.passwordHint.hint",
+    "defaultMessage": "your password hint for this vault"
+  },
+  {
+    "id": "vaults.editMeta.passwordHint.label",
+    "defaultMessage": "password hint"
+  },
+  {
+    "id": "vaults.editMeta.allowPassword",
+    "defaultMessage": "Change vault password"
+  },
+  {
+    "id": "vaults.editMeta.currentPassword.hint",
+    "defaultMessage": "your current vault password"
+  },
+  {
+    "id": "vaults.editMeta.currentPassword.label",
+    "defaultMessage": "current password"
+  },
+  {
+    "id": "vaults.editMeta.password.hint",
+    "defaultMessage": "a strong, unique password"
+  },
+  {
+    "id": "vaults.editMeta.password.label",
+    "defaultMessage": "new password"
+  },
+  {
+    "id": "vaults.editMeta.password2.hint",
+    "defaultMessage": "verify your new password"
+  },
+  {
+    "id": "vaults.editMeta.password2.label",
+    "defaultMessage": "new password (repeat)"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "vaults.confirmClose.title",
+    "defaultMessage": "Close Vault"
+  },
+  {
+    "id": "vaults.confirmClose.info",
+    "defaultMessage": "You are about to close a vault. Any accounts associated with the vault won't be visible after this operation concludes. To view the associated accounts, open the vault again."
+  }
+]
