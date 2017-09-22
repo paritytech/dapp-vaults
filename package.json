@@ -62,7 +62,7 @@
     "webpack": "^3.5.5"
   },
   "dependencies": {
-    "@parity/api": "paritytech/js-api",
+    "@parity/api": "^2",
     "@parity/shared": "paritytech/js-shared",
     "@parity/ui": "paritytech/js-ui"
   },
