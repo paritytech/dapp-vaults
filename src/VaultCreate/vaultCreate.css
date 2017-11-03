@@ -39,6 +39,6 @@
   opacity: 0.25;
 }
 
-.group+.group {
+.group + .group {
   margin-top: 1em;
 }

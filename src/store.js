@@ -303,7 +303,7 @@ export default class Store {
 
   createVault () {
     if (this.vaultNameError || this.vaultPasswordRepeatError) {
-      return Promise.reject();
+      return Promise.reject(new Error('Unable to create vault'));
     }
 
     this.setBusyCreate(true);
