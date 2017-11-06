@@ -21,7 +21,7 @@ import { FormattedMessage } from 'react-intl';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 
-import { newError } from '@parity/shared/redux/actions';
+import { newError } from '@parity/shared/lib/redux/actions';
 import { ConfirmDialog, VaultCard } from '@parity/ui';
 
 import styles from '../VaultUnlock/vaultUnlock.css';

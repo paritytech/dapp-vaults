@@ -21,7 +21,7 @@ import { FormattedMessage } from 'react-intl';
 import { connect } from 'react-redux';
 
 import { Button, Container, Page, SectionList, VaultCard } from '@parity/ui';
-import { AccountsIcon, AddIcon, EditIcon, LockedIcon, UnlockedIcon } from '@parity/ui/Icons';
+import { AccountsIcon, AddIcon, EditIcon, LockedIcon, UnlockedIcon } from '@parity/ui/lib/Icons';
 
 import VaultAccounts from './VaultAccounts';
 import VaultCreate from './VaultCreate';

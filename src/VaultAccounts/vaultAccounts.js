@@ -21,10 +21,10 @@ import { FormattedMessage } from 'react-intl';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 
-import { newError } from '@parity/shared/redux/actions';
-import { personalAccountsInfo } from '@parity/shared/redux/providers/personalActions';
+import { newError } from '@parity/shared/lib/redux/actions';
+import { personalAccountsInfo } from '@parity/shared/lib/redux/providers/personalActions';
 import { AccountCard, Button, Portal, SelectionList } from '@parity/ui';
-import { CancelIcon, CheckIcon } from '@parity/ui/Icons';
+import { CancelIcon, CheckIcon } from '@parity/ui/lib/Icons';
 
 @observer
 class VaultAccounts extends Component {
